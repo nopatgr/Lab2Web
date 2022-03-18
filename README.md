@@ -1,5 +1,10 @@
-# Lab2Web
-## Pratikum 2<br>
+# Tugas Lab2 CSS Dasar HTML<br><br>
+## Nama
+## Nim
+## Kelas<br>
+
+# Langkah-langkah Praktikum<br>
 
 
-![Lab2Web](gambar/ss1.png)
+
+
