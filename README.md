@@ -15,7 +15,7 @@ Disini saya akan membuat langkah-langkah praktikum CSS dasar HTML menggunakan VS
 
 Buatlah dokumen HTML seperti berikut :<br>
 
-![Lab2Web](gambar/dok1.png)
+![Lab2Web](gambar/dok1.png) <br>
 
 Selanjutnya buka pada browser<b> Google Chrome</b> untuk melihat hasilnya 
 
