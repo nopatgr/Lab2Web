@@ -17,4 +17,8 @@ Buatlah dokumen HTML seperti berikut :<br>
 
 ![Lab2Web](gambar/dok1.png)
 
+Selanjutnya buka pada browser<b> Google Chrome</b> untuk melihat hasilnya 
+
+![Law2Web](gambar/dok2.png)
+
 
