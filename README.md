@@ -1,7 +1,8 @@
 # Tugas Lab2 CSS Dasar HTML<br><br>
-## Nama     : Nova Tegar Adiyansyah
-## Nim      : 312010145
-## Kelas    : TI.20.A.1<br>
+
+| Nova Tegar Adiyansyah | 312010145  |
+|----------------- |----------- |
+|  matkul          | program web|
 
 # Langkah-langkah Praktikum<br>
 
