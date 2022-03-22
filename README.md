@@ -106,3 +106,6 @@ Berikan penjelasan dan contohnya! ( < p id="paragraf-1" class="text-paragraf" > 
 ## Jawaban <br>
 
 
+1. Saya akan mengubah dan menambah properti dan nilai pada kode CSS, dimulai dari membuat kerangka htmlnya. Seperti gambar berikut : Kemudian membuat CSSnya dengan menambahkan nilai dan properti pada kode diatas Disini Saya menambahkan 4 pemilih kedalam CSS, diantaranya body, h2, .avatar, .header-profile. Masing-masing memiliki fungsi untuk mengatur tampilan pada HTML<br>
+
+![Lab2Web](gambar/jwb1.png)
