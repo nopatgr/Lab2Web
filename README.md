@@ -108,4 +108,14 @@ Berikan penjelasan dan contohnya! ( < p id="paragraf-1" class="text-paragraf" > 
 
 1. Saya akan mengubah dan menambah properti dan nilai pada kode CSS, dimulai dari membuat kerangka htmlnya. Seperti gambar berikut : Kemudian membuat CSSnya dengan menambahkan nilai dan properti pada kode diatas Disini Saya menambahkan 4 pemilih kedalam CSS, diantaranya body, h2, .avatar, .header-profile. Masing-masing memiliki fungsi untuk mengatur tampilan pada HTML<br>
 
-![Lab2Web](gambar/jwb1.png)
+![Lab2Web](gambar/jwb1.png)<br>
+
+2. Jadi jika mendeklarasikan h1 nya saja itu akan mengubah semua elemen {h1}, sedangkan jika mendeklarasikan {#intro h1} itu hanya mengubah elemen {h1} pada {#intro} saja. <br>
+
+3. Jika mendeklarasikan Internal, Eksternal dan Inline secara bersamaan yang akan ditampilkan pada Browser adalah Inline, Karena Inline Memiliki prioritas dibanding Eksternal atau pun Internal. Saya akan membuat dokumen baru HTML, kemudian saya buat Elemen {h2}, kemudian saya deklarasikan di CSS Internal Eksternal dan juga Inline, dengan menggunakan properti {color} yang berbeda, jika Internal {color: yellow} sementara Eksternal {color: brown;} dan Inline {color: blue;} yang terpanggil dibrowser adalah Inline karena memiliki prioritas. Berikut contohnya :<br>
+
+![Lab2Web](gambar/jwb2.png)<br>
+
+4. Yang ditampilkan dibrowser adalah ID, ID bersifat unik berbeda dengan Class, Class bisa digunakan banyak, sementara ID hanya tertentu saja, oleh karena itu ID yang ditampilkan dibrowser.<br>
+
+![Lab2Web](gambar/jwb4.png)
